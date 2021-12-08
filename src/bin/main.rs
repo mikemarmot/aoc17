@@ -1,6 +1,6 @@
 use std::time::Instant;
 
-use aoc17::day02::{p1,p2};
+use aoc17::day03::{p1,p2};
 
 fn main() {
     let now = Instant::now();
